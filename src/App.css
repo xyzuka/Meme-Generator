@@ -11,7 +11,7 @@ body {
 
 .header {
   align-items: center;
-  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  background: linear-gradient(90deg, #FF5700 1.18%, #FF4500 100%);
   color: #FFFFFF;
   display: flex;
   height: 30px;
@@ -53,7 +53,7 @@ body {
 }
 
 .button {
-  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  background: linear-gradient(90.41deg, #FF5700 1.14%, #FF4500 100%);
   border-radius: 5px;
   border-style: none;
   color: #FFFFFF;
